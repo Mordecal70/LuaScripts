@@ -1,6 +1,6 @@
 wait()
 BoardID = 'zjLJc4IQ' --trello board id (ONLY WORKS WITH HTTP ENABLED)
-Banlist = {"somebody", "somebody"} --trello ban list alternative
+Banlist = {"somebody", "dodge888"} --trello ban list alternative
 BSoDBanList = {} -- i highly suggest you don't use this but if said person is really annoying u go ahead
 LocalPlayer = game:service("Players").LocalPlayer
 script.Parent = ___V3rmTabs___
